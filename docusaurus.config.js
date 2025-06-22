@@ -28,7 +28,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Didudocl', // Usually your GitHub org/user name.
-  projectName: 'Introducción a Visión por Computadora', // Usually your repo name.
+  projectName: 'Didudocl.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
